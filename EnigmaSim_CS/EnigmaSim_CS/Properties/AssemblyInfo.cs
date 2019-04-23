@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Enigma Machine")]
+[assembly: AssemblyTitle("EnigmaSim_CS")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Enigma Machine")]
+[assembly: AssemblyProduct("EnigmaSim_CS")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("dbc14529-44d5-4d6a-a53b-1d66120bec6f")]
+[assembly: Guid("e7624716-6d57-4b72-af5e-424f195ce916")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Enigma_Machine.Properties {
+namespace EnigmaSim_CS.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace Enigma_Machine.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Enigma_Machine.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("EnigmaSim_CS.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -73,9 +73,19 @@ namespace Enigma_Machine.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap light {
+        internal static System.Drawing.Bitmap Key {
             get {
-                object obj = ResourceManager.GetObject("light", resourceCulture);
+                object obj = ResourceManager.GetObject("Key", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Key_Lit {
+            get {
+                object obj = ResourceManager.GetObject("Key-Lit", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

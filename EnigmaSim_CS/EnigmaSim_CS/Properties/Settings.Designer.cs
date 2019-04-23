@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Enigma_Machine.Properties
+namespace EnigmaSim_CS.Properties
 {
 
 
