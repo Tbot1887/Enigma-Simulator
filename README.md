@@ -2,12 +2,19 @@
 
 ## C Sharp Version - Tbot1887
 
-Hi All, I am currently making a C Sharp Version of the Enigma Machine made by Code Bullet. I have included both the **Processing** and the **C Sharp** Version.
+Hi All, I am currently making a C Sharp Version of the Enigma Machine made by Code Bullet. I have included both the **Processing** and the **C Sharp** Version as i forked this repo from Code Bullet himself.
 
 
 ### Running the C Sharp Version
 
 The C Sharp version is just a windows executable. No need to install special software.
+
+Look inside the build folder for the C Sharp Exe
+
+### TODO
+--------
+1. Clean up Spaghetti code
+2. Add plugBoard
  
 ## Original Code Bullet README
 ------------------------------
